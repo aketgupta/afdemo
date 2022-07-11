@@ -6,7 +6,7 @@ namespace Git_Demo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello India!");
+            Console.WriteLine("Hello World!");
         }
     }
 }
