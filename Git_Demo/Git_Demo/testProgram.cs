@@ -2,7 +2,7 @@
 
 namespace Git_Demo
 {
-    class Program
+    class testProgram
     {
         static void Main(string[] args)
         {
